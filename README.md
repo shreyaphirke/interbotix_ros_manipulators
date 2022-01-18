@@ -2,7 +2,7 @@
 
 ## Overview
 ![manipulator_repo_structure](images/manipulator_repo_structure.png)
-WELCOME to the *interbotix_ros_manipulators* repository! This repo contains custom ROS packages to control the various types of arms sold at [Interbotix](https://www.trossenrobotics.com/). These ROS packages build upon the ROS driver nodes found in the [interbotix_ros_core](https://github.com/Interbotix/interbotix_ros_core) repository. Support-level software can be found in the [interbotix_ros_toolboxes](https://github.com/Interbotix/interbotix_ros_toolboxes) repository.
+WELCOME TO the *interbotix_ros_manipulators* repository! This repo contains custom ROS packages to control the various types of arms sold at [Interbotix](https://www.trossenrobotics.com/). These ROS packages build upon the ROS driver nodes found in the [interbotix_ros_core](https://github.com/Interbotix/interbotix_ros_core) repository. Support-level software can be found in the [interbotix_ros_toolboxes](https://github.com/Interbotix/interbotix_ros_toolboxes) repository.
 
 ## Repo Structure
 ```
